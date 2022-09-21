@@ -7,3 +7,4 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 <li> Utilizar qualquier lenguaje sin ningun problema</li>
 </ul>
 <img src="GitHub-Jordi.png"/>
+Ya hemos practicado con GitHub
