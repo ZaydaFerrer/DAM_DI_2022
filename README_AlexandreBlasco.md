@@ -6,3 +6,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 	<li>Aprender más sobre la programación<li>
 	<li>Conseguir el título<li>
 <ul>
+
+<img src="Github-Santos.png">
