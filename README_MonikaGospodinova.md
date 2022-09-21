@@ -7,3 +7,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 <p>3. Cosa 3</p>
 
 <img src="GitHub-Monika">
+
+<p>Ya hemos practicado<p>
