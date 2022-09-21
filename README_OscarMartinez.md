@@ -7,3 +7,7 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
     1: Aprobar
     2: Aprobar
     3: Aprobar </p>
+
+<img src="GitHub-Oscar.jpg">
+
+<p> Ya hemos practicado con github :) </p>

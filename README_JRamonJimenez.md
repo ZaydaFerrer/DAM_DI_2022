@@ -7,3 +7,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 3-HackerMan
 
 ![sad](./JRLogo.jpg)
+
+ya hemos preacticado con GitHub
