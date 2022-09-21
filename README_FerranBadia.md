@@ -8,3 +8,6 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 3. Ser un trabajador competente.
 
 ! (GitHub-Ferran.png)
+
+
+Ya hemos practicado con GitHub
