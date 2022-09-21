@@ -4,4 +4,4 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 1. Obtener los conocimientos necesarios para trabajar
 2. Aprobar sin necesidad de recuperacion
 3. Conseguir trabajo al finalizar las practicas
-(GitHub-Antoni.jpg)
+![Imagen Github](GitHub-Antoni.jpg)
