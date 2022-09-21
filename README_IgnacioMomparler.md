@@ -8,3 +8,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 
 ![image info](logoNacho.png)
 
+Ya hemos practicado con GitHub
+
