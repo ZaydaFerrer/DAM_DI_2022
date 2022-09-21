@@ -6,3 +6,4 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 	<li>Progresar en la vida</li>
 	<li>No se</li>
 </ul>
+<img src="GitHub-Pastor.png"/>
