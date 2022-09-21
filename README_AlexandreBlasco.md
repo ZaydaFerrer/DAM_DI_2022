@@ -8,3 +8,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 <ul>
 
 <img src="Github-Santos.png">
+
+<p> Ya hemos practicado Github <p>
