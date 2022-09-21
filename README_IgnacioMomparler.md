@@ -5,3 +5,6 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 - Aprobar el curso
 - Ganar la liga
 - Comprarme un coche
+
+![image info](logoNacho.png)
+
