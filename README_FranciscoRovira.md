@@ -6,3 +6,4 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 	<li>Conseguir mis objetivos</li>
 	<li>Formarme como persona</li>
 </ul>
+<img src="GitHub-Curro.png">
