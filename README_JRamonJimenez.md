@@ -5,3 +5,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 1-Pasar de curso
 2-pasar ingles
 3-HackerMan
+
+![sad](./JRLogo.jpg)
