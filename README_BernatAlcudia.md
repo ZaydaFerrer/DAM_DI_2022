@@ -7,3 +7,6 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 
 
 <href>https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png</href>
+
+
+Ya hemos practicado con GitHub
