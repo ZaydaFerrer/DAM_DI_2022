@@ -7,3 +7,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
     <li>Aprender</li>
     <li>Mejorar</li>
 </ul>
+
+<img src="logogithub.png" alt="Logo GitHub">
