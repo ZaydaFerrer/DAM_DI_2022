@@ -5,3 +5,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 <p>1. Aprobar</p>
 <p>2. Cosa 2</p>
 <p>3. Cosa 3</p>
+
+<img src="GitHub-Monika">
