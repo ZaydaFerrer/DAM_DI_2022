@@ -8,3 +8,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 # -> Sacar notas más altas de 8
 
 <img src="GitHub-Carles.png">
+
+# YA HEMOS PRACTICADO CON GITHUB
