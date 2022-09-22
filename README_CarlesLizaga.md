@@ -7,3 +7,4 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 # -> Conseguir un gran nivel de programación
 # -> Sacar notas más altas de 8
 
+<img src="GitHub-Carles.png">
