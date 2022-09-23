@@ -2,4 +2,4 @@
 
 Este fichero servirá para que podáis actualizar vuestros repositorios locales haciendo un `pull`.
 
-# Borja Gómez Ruiz
+# Borja Gómez 
