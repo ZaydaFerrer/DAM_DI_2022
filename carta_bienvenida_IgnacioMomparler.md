@@ -4,5 +4,13 @@ Este fichero servirá para que podáis actualizar vuestros repositorios locales 
 <<<<<<< HEAD
 # Texto modificado por: Nacho 
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+# añadimos esta linea para generar un conflicto 
+=======
 # conflicto 
 >>>>>>> b5dbbdc0b0c4ad7c77fa488d475a36b491f8a5f3
+>>>>>>> b5dbbdc0b0c4ad7c77fa488d475a36b491f8a5f3
+=======
+# conflicto 
+>>>>>>> da5061f82208e05f480c1f447912f508bd37b3d2
