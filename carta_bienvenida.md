@@ -1,7 +1,7 @@
 # Bienvenida a las pruebas de Git/GitHub
 
 <<<<<<< HEAD
-Este fichero servirá para que podáis actualizar vuestros repositorios locales haciendo un `pull`.
+Este fichero servirá para que podáis actualizar vuestros repositorios locales haciendo un `pull`. * Añadimos esta línea para generar un conflicto
 =======
 Este fichero servirá para que podáis actualizar vuestros repositorios locales haciendo un `pull`.
 <<<<<<< HEAD
