@@ -10,3 +10,4 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 
 Ya hemos practicado con GitHub
 
+texto añadido desde la rama funcionalidad1
