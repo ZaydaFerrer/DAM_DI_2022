@@ -9,3 +9,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 </ul>
 
 <img src="logogithub.png" alt="Logo GitHub">
+
+Texto añadido desde la rama funcionalidad1
