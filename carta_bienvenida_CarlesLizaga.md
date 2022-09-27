@@ -2,5 +2,4 @@
 
 Este fichero servirá para que podáis actualizar vuestros repositorios locales haciendo un `pull`.
 
-# Texto modificado por: **Carles Lizaga**
-# Conflicto: AP1
+
