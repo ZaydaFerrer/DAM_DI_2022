@@ -4,7 +4,7 @@ Este fichero servirá para que podáis actualizar vuestros repositorios locales 
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-HOLAAAAA
+Añadimos esta línea para generar un conflicto
 
 =======
 Añadimos esta línea para generar un conflicto
