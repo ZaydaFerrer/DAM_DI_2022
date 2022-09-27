@@ -8,4 +8,4 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 </ul>
 <img src="GitHub-Curro.png">
 Ya hemos practicado con GitHub
-
+Texto añadido desde funcionalidad1
