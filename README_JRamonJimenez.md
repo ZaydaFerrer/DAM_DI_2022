@@ -9,3 +9,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 ![sad](./JRLogo.jpg)
 
 ya hemos preacticado con GitHub
+
+Texto añadido desde la rama funcionalidad1
