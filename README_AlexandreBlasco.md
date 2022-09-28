@@ -10,3 +10,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 <img src="Github-Santos.png">
 
 <p> Ya hemos practicado Github <p>
+
+Texto añadido desde la rama funcionalidad1

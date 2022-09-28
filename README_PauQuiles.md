@@ -10,3 +10,5 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 ![Image info](GitHub-Pau.jpg)
 
 Ya hemos practicado con GitHub
+
+Texto añadido desde la rama funcionalidad1
